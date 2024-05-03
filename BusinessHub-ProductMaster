@@ -1,0 +1,12 @@
+#URL.headers.apikey=<< Existing password/certificate removed on export >>
+#
+#Wed Apr 10 05:13:03 UTC 2024
+Type=HTTP
+HTML5.DynamicDestination=true
+Authentication=NoAuthentication
+WebIDEUsage=odata_gen
+Name=BusinessHub-ProductMaster
+WebIDEEnabled=true
+ProxyType=Internet
+URL=https\://sandbox.api.sap.com/s4hanacloud/sap/opu/odata/sap/API_PRODUCT_SRV
+AppgyverEnabled=true
